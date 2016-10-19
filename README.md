@@ -1,4 +1,4 @@
-# Dutchman
+# Darsy
 
 ###INSTALLATION
 
@@ -38,4 +38,3 @@ The application runs only on localhost. You will need a local server to run it. 
 ### USAGE
 
 Open index.html in Chrome as Speech to Text will only work in chrome.
-# Darsy
